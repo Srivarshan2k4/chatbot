@@ -1,3 +1,16 @@
+langchain
+torch
+accelerate
+sentence_transformers
+streamlit_chat
+streamlit
+faiss-cpu
+tiktoken
+huggingface-hub
+pypdf
+llama-cpp-python
+
+
 streamlit==1.25.0
 streamlit-chat==0.0.2
 langchain==0.0.288
