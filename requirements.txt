@@ -7,20 +7,11 @@ streamlit
 faiss-cpu
 tiktoken
 huggingface-hub
-pypdf
+PyPDF2
 llama-cpp-python
-
-
-streamlit==1.25.0
-streamlit-chat==0.0.2
-langchain==0.0.288
-faiss-cpu==1.7.3
-huggingface-hub==0.16.4
-sentence-transformers==2.2.2
-PyPDF2==3.0.1
-llama-cpp-python==0.1.76
-torch==2.0.1  # Required for HuggingFace Embeddings and model handling
-numpy==1.24.3
-tqdm==4.65.0
+SpeechRecognition
+pyttsx3
+sentence-transformers
+PyAudio
 
 
